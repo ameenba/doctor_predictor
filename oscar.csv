@@ -1,0 +1,34 @@
+Name,pic,location,specialties,n_reviews,review_badges,avail2,avail7,avail14,avail30,availn,bio,languages,cost,gender,hospitals,experience,medical_group,medical_school,Residency,panel_status,Admitting Privileges,certifications,wheelchair,rating
+"Alla Shustarovich, MD",1,11235,Internal Medicine,10 ,,0.2,0.8,0.8,0.8,0.8,,"Russian, English",2,F,"Maimonides Medical Center
+Lenox Hill Hospital
+Mount Sinai Beth Israel",39 ,,Petrozavodsk State University,,Accepting new patients,0,"American Board of Internal Medicine
+",no,80
+"Faith Zhao, MD",0,10013,Internal Medicine,10 ,,1,1,1,1,1,,English,2,F,"NewYork-Presbyterian / Weill Cornell Medical Center
+NYU Langone Health System
+NewYork-Presbyterian / Lower Manhattan Hospital
+Mount Sinai Beth Israel",49,,"Nanjing Medical University
+","Interfaith Medical Center
+",Accepting new patients,1,"American Board of Internal Medicine
+",yes,80
+"Darshani Butala, MD",1,11237,Internal Medicine,22,,0,1,1,1,1,We do not do STI Testing we will gladly send our patients to a Free clinic. We Are not a GYN Clinic but we gladly refer you to one near by.,"English, Hindi, Spanish",2,F,"Wyckoff Heights Medical Center
+Kingsbrook Jewish Medical Center
+Mercy Medical Center",33,,South Gujarat University / Government Medical College,Brookdale Hospital MED Ctr,Accepting new patients,0,"American Board of Internal Medicine
+",yes,68
+"Vadim Zbarsky, MD
+",1,11218,"Internal Medicine
+",24,,0,1,1,1,1,,"Yiddish, English, Russian, Ukrainian
+",2,M,"Maimonides Medical Center
+",35,"Zbarsky Medical Pc
+","Tyumen Medical Institute
+Tjumen State Medical Academy","Episcopal Hospital
+","Accepting new patients
+",0,"American Board of Internal Medicine
+",no,83
+"Nadege Coupet, MD",0,10014,"Internal Medicine
+",8,,0.2,0.5,0.8,0.8,0.8,,"Haitian-Creole, English, French, Spanish
+",2,F,"Mount Sinai Beth Israel
+",26,,"New York Medical College
+","St. Vincent Catholic Medical Centers
+","Accepting new patients
+",0,"AMERICAN BOARD OF INTERNAL MEDICINE
+",yes,88
